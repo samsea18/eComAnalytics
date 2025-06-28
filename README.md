@@ -1,3 +1,6 @@
+# Project Motivation
+This educational project uses web scraping to extract and analyze sneaker listings from Amazon.sg, focusing on brand, price, rating, and sponsorship data. It provides hands-on experience with dynamic content extraction and reveals patterns like top brands, common price ranges, and high customer ratings.
+
 # Section 1: Environment Setup
 - Create a new conda environment called "coupang-test" and activate it
 
