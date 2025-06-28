@@ -1,0 +1,4 @@
+search_term: sneakers
+website_url: https://www.amazon.sg
+pages_to_scrape: 10
+gender_filters: ['Men', 'Unisex']
